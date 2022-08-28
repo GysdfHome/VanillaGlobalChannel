@@ -34,6 +34,8 @@ public class MainCommand extends Command {
             {
                 playerData.setChannelID(-1);
                 p.sendMessage(ConfigManager.commandLeave);
+                // LEAVE CHANNEL
+                // p对象指玩家实例
             }
             else if(args[0].equalsIgnoreCase("channel"))
             {
@@ -52,6 +54,7 @@ public class MainCommand extends Command {
                     p.sendMessage(str);
                 }
             }
+           //
         }
         else if(args.length <= 2)
         {

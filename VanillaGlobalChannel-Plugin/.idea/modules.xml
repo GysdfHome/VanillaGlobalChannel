@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bukkit/Bukkit.iml" filepath="$PROJECT_DIR$/Bukkit/Bukkit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bungeecord/Bungeecord.iml" filepath="$PROJECT_DIR$/Bungeecord/Bungeecord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Common/Common.iml" filepath="$PROJECT_DIR$/Common/Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/VanillaGlobalChannel-Plugin.iml" filepath="$PROJECT_DIR$/.idea/VanillaGlobalChannel-Plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Velocity/Velocity.iml" filepath="$PROJECT_DIR$/Velocity/Velocity.iml" />
+    </modules>
+  </component>
+</project>
